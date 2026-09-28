@@ -1,0 +1,11 @@
+Enter a line of text (or END to quit): Extracted IPv4 address: 192.168.1.1 (decimal value: 3232235777, port: none)
+Enter a line of text (or END to quit): Extracted IPv4 address: 10.0.0.255 (decimal value: 167772415, port: 8080)
+Enter a line of text (or END to quit): Extracted IPv4 address: 168.1.1.1 (decimal value: 2818638081, port: none)
+Enter a line of text (or END to quit): No valid IPv4 address found in input.
+Enter a line of text (or END to quit): Extracted IPv4 address: 192.168.1.1 (decimal value: 3232235777, port: none)
+Enter a line of text (or END to quit): No valid IPv4 address found in input.
+Enter a line of text (or END to quit): No valid IPv4 address found in input.
+Enter a line of text (or END to quit): No valid IPv4 address found in input.
+Enter a line of text (or END to quit): No valid IPv4 address found in input.
+Enter a line of text (or END to quit): Extracted IPv4 address: 255.200.100.0 (decimal value: 4291322880, port: 400)
+Enter a line of text (or END to quit): Program terminated.
